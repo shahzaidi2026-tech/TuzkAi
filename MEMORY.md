@@ -1,0 +1,2 @@
+- [Standalone artifact builds](standalone-artifact-builds.md) — managed service env does not carry into ad-hoc shell builds; verify both separately.
+- [TuzakAI administrator enrollment](tuzakai-admin-enrollment.md) — never auto-promote the first visitor; an owner account must be explicitly authorized.
