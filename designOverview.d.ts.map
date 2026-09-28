@@ -1,0 +1,1 @@
+{"version":3,"file":"designOverview.d.ts","sourceRoot":"","sources":["../../../src/generated/types/designOverview.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,sBAAsB,CAAC;AAE/D,MAAM,WAAW,cAAc;IAC7B,WAAW,EAAE,MAAM,CAAC;IACpB,aAAa,EAAE,kBAAkB,EAAE,CAAC;IACpC,oBAAoB,EAAE,MAAM,CAAC;CAC9B"}
